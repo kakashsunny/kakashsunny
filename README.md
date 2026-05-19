@@ -37,8 +37,8 @@
 class KAkash:
     def __init__(self):
         self.name        = "K. Akash"
-        self.alias       = "NEURAL_CORE.v25"
-        self.location    = "Ballari, Karnataka, India 🇮🇳"
+        self.alias       = "NEURAL_CORE.v26"
+        self.location    = "Bengaluru, Karnataka, India 🇮🇳"
         self.role        = ["AI Generalist", "Builder", "Explorer"]
         self.python      = "Grade A Certified  ·  IANT Computer Education"
         self.cloud       = "Google Cloud AI Track  ·  4 Badges Earned"
