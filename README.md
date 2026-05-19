@@ -1,137 +1,245 @@
-
-   # 
 <div align="center">
 
-<!-- HERO BANNER SVG -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=K.%20AKASH&fontSize=90&color=0:00f5ff,100:8b00ff&stroke=00f5ff&strokeWidth=2&fontColor=00f5ff&animation=fadeIn&desc=AI%20Generalist%20%7C%20Builder%20%7C%20Explorer&descSize=22&descAlignY=75&descColor=ffffff" width="100%"/>
+<!-- ANIMATED HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&text=K.%20AKASH&fontSize=100&color=0:020208,50:0a0a1f,100:020208&stroke=00f5ff&strokeWidth=3&fontColor=00f5ff&animation=fadeIn&desc=//%20NEURAL__CORE.v25%20//&descSize=18&descAlignY=78&descColor=ff00aa&fontAlignY=45" />
 
 </div>
 
----
-
 <div align="center">
 
-<!-- TYPING SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&repeat=true&width=600&height=70&lines=AI+Generalist+%F0%9F%A4%96;Builder+%F0%9F%94%A7;Explorer+%F0%9F%9A%80;Google+Cloud+Certified+%E2%98%81%EF%B8%8F;IEEE+Award+Winner+%F0%9F%8F%85)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&repeat=true&width=700&height=60&lines=%E2%9E%BE+AI+Generalist;%E2%9E%BE+Builder;%E2%9E%BE+Explorer;%E2%9E%BE+Google+Cloud+Certified;%E2%9E%BE+IEEE+Award+Winner+%F0%9F%A5%87)](https://git.io/typing-svg)
 
 </div>
 
+<br/>
+
+<!-- STATUS BAR -->
+<div align="center">
+
+![Status](https://img.shields.io/badge/%F0%9F%9F%A2%20STATUS-ONLINE-39ff14?style=for-the-badge&labelColor=020208)
+![Location](https://img.shields.io/badge/%F0%9F%93%8D-Ballari%2C%20Karnataka-00f5ff?style=for-the-badge&labelColor=020208)
+![Role](https://img.shields.io/badge/%F0%9F%A4%96-AI%20Generalist-ff00aa?style=for-the-badge&labelColor=020208)
+
+</div>
+
+<br/>
+
 ---
 
-## ⚡ `NEURAL_CORE.v25` — System Profile
+## `> whoami`
 
 ```python
+#!/usr/bin/env python3
+# ============================================================
+#  NEURAL_CORE.v25 — K. AKASH — SYSTEM PROFILE
+# ============================================================
+
 class KAkash:
-    name       = "K. Akash"
-    location   = "Ballari, Karnataka 🇮🇳"
-    role       = "AI Generalist | Builder | Explorer"
-    python     = "Grade A Certified (IANT)"
-    cloud      = "Google Cloud AI Track — 4 Badges"
-    award      = "1st Place · Cognitive Combat · IEEE · CMR University"
-    status     = "🟢 ONLINE — Exploring · Building · Winning"
+    def __init__(self):
+        self.name        = "K. Akash"
+        self.alias       = "NEURAL_CORE.v25"
+        self.location    = "Ballari, Karnataka, India 🇮🇳"
+        self.role        = ["AI Generalist", "Builder", "Explorer"]
+        self.python      = "Grade A Certified  ·  IANT Computer Education"
+        self.cloud       = "Google Cloud AI Track  ·  4 Badges Earned"
+        self.achievement = "1st Place · Cognitive Combat · IEEE · CMR University"
+        self.status      = "🟢 ONLINE — Exploring · Building · Winning"
+
+    def current_focus(self):
+        return [
+            "⚡  Generative AI & Large Language Models",
+            "☁️  Google Cloud & Vertex AI",
+            "🐍  Python · Data Science · ML",
+            "🛠️  Building real-world AI applications",
+        ]
+
+me = KAkash()
+print(f"[BOOT] {me.alias} initialized. Status: {me.status}")
 ```
 
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### ⌨️ Languages
-![Python](https://img.shields.io/badge/Python-00f5ff?style=for-the-badge&logo=python&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ff00aa?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-8b00ff?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-00f5ff?style=for-the-badge&logo=c&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-ff6b00?style=for-the-badge&logo=html5&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-39ff14?style=for-the-badge&logo=mysql&logoColor=black)
-
-### 🤖 AI & Data
-![NumPy](https://img.shields.io/badge/NumPy-00f5ff?style=for-the-badge&logo=numpy&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-ff00aa?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-8b00ff?style=for-the-badge&logo=python&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-00f5ff?style=for-the-badge&logo=googlecloud&logoColor=black)
-![Generative AI](https://img.shields.io/badge/Generative_AI-ff00aa?style=for-the-badge&logo=google&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-39ff14?style=for-the-badge&logo=openai&logoColor=black)
-
-### 🛠️ Tools & Platforms
-![GitHub](https://img.shields.io/badge/GitHub-00f5ff?style=for-the-badge&logo=github&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-ff00aa?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-8b00ff?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00f5ff?style=for-the-badge&logo=canva&logoColor=black)
-![Netlify](https://img.shields.io/badge/Netlify-39ff14?style=for-the-badge&logo=netlify&logoColor=black)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-ff6b00?style=for-the-badge&logo=googlecloud&logoColor=white)
-
-</div>
+<br/>
 
 ---
 
-## 🏅 Certifications & Badges
+## `> ls ./tech-stack`
 
 <div align="center">
 
-| 🎖️ | Credential | Issuer | Type |
-|:---:|-----------|--------|------|
-| ☁️ | **Prompt Design in Vertex AI** | Google Cloud | 🏅 Skill Badge |
-| ☁️ | **Introduction to Generative AI** | Google Cloud | ✅ Completion Badge |
-| ☁️ | **Introduction to Large Language Models** | Google Cloud | ✅ Completion Badge |
-| ☁️ | **Introduction to Responsible AI** | Google Cloud | ✅ Completion Badge |
-| 🐍 | **Training in Python — Grade A** | IANT Computer Education | 🌟 Certificate of Excellence |
-| 🥇 | **Cognitive Combat — 1st Place** | CMR University · IEEE Bangalore | 🏆 Certificate of Appreciation |
+### ⌨️ &nbsp; Languages
+
+![Python](https://img.shields.io/badge/Python-020208?style=for-the-badge&logo=python&logoColor=00f5ff&labelColor=020208)&nbsp;
+![Java](https://img.shields.io/badge/Java-020208?style=for-the-badge&logo=openjdk&logoColor=ff00aa&labelColor=020208)&nbsp;
+![C++](https://img.shields.io/badge/C++-020208?style=for-the-badge&logo=cplusplus&logoColor=8b00ff&labelColor=020208)&nbsp;
+![C](https://img.shields.io/badge/C-020208?style=for-the-badge&logo=c&logoColor=00f5ff&labelColor=020208)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-020208?style=for-the-badge&logo=html5&logoColor=ff6b00&labelColor=020208)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-020208?style=for-the-badge&logo=mysql&logoColor=39ff14&labelColor=020208)
+
+### 🤖 &nbsp; AI & Data Science
+
+![NumPy](https://img.shields.io/badge/NumPy-020208?style=for-the-badge&logo=numpy&logoColor=00f5ff&labelColor=020208)&nbsp;
+![Pandas](https://img.shields.io/badge/Pandas-020208?style=for-the-badge&logo=pandas&logoColor=ff00aa&labelColor=020208)&nbsp;
+![Matplotlib](https://img.shields.io/badge/Matplotlib-020208?style=for-the-badge&logo=python&logoColor=8b00ff&labelColor=020208)&nbsp;
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-020208?style=for-the-badge&logo=googlecloud&logoColor=00f5ff&labelColor=020208)&nbsp;
+![Generative AI](https://img.shields.io/badge/Generative_AI-020208?style=for-the-badge&logo=google&logoColor=ff00aa&labelColor=020208)&nbsp;
+![LLMs](https://img.shields.io/badge/LLMs-020208?style=for-the-badge&logo=openai&logoColor=39ff14&labelColor=020208)&nbsp;
+![Responsible AI](https://img.shields.io/badge/Responsible_AI-020208?style=for-the-badge&logo=googlecloud&logoColor=f5e642&labelColor=020208)
+
+### 🛠️ &nbsp; Tools & Platforms
+
+![GitHub](https://img.shields.io/badge/GitHub-020208?style=for-the-badge&logo=github&logoColor=00f5ff&labelColor=020208)&nbsp;
+![VS Code](https://img.shields.io/badge/VS_Code-020208?style=for-the-badge&logo=visualstudiocode&logoColor=ff00aa&labelColor=020208)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-020208?style=for-the-badge&logo=figma&logoColor=8b00ff&labelColor=020208)&nbsp;
+![Canva](https://img.shields.io/badge/Canva-020208?style=for-the-badge&logo=canva&logoColor=00f5ff&labelColor=020208)&nbsp;
+![Netlify](https://img.shields.io/badge/Netlify-020208?style=for-the-badge&logo=netlify&logoColor=39ff14&labelColor=020208)&nbsp;
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-020208?style=for-the-badge&logo=googlecloud&logoColor=ff6b00&labelColor=020208)
 
 </div>
+
+<br/>
 
 ---
 
-## 📈 GitHub Stats
+## `> cat certifications.log`
+
+<br/>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kakashsunny&show_icons=true&theme=radical&bg_color=020208&title_color=00f5ff&text_color=c8d8e8&icon_color=ff00aa&border_color=00f5ff&border_radius=10&hide_border=false"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakashsunny&layout=compact&theme=radical&bg_color=020208&title_color=00f5ff&text_color=c8d8e8&border_color=00f5ff&border_radius=10"/>
+<!-- GOOGLE CLOUD ROW -->
+<table>
+<tr>
+<td align="center" width="25%">
+
+**☁️ GOOGLE CLOUD**
+
+![](https://img.shields.io/badge/Skill_Badge-Prompt_Design_in_Vertex_AI-00f5ff?style=flat-square&labelColor=020208&color=00f5ff)
+
+`Machine Learning & AI · Introductory`
+
+</td>
+<td align="center" width="25%">
+
+**☁️ GOOGLE CLOUD**
+
+![](https://img.shields.io/badge/Completion-Intro_to_Generative_AI-ff00aa?style=flat-square&labelColor=020208&color=ff00aa)
+
+`Completion Badge ✅`
+
+</td>
+<td align="center" width="25%">
+
+**☁️ GOOGLE CLOUD**
+
+![](https://img.shields.io/badge/Completion-Intro_to_LLMs-8b00ff?style=flat-square&labelColor=020208&color=8b00ff)
+
+`Completion Badge ✅`
+
+</td>
+<td align="center" width="25%">
+
+**☁️ GOOGLE CLOUD**
+
+![](https://img.shields.io/badge/Completion-Responsible_AI-39ff14?style=flat-square&labelColor=020208&color=39ff14)
+
+`Completion Badge ✅`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🐍 &nbsp; IANT Computer Education
+
+![](https://img.shields.io/badge/Certificate_of_Excellence-Training_in_Python-f5e642?style=for-the-badge&labelColor=020208)
+
+**Grade A &nbsp;·&nbsp; 25.09.2024 &nbsp;·&nbsp; Ballari, Karnataka**
+
+`Reg. No. KAR-BL-24-07-0009`
+
+</td>
+<td align="center" width="50%">
+
+### 🥇 &nbsp; CMR University · IEEE Bangalore
+
+![](https://img.shields.io/badge/Certificate_of_Appreciation-Cognitive_Combat_1st_Place-ff00aa?style=for-the-badge&labelColor=020208)
+
+**Techno Whiz '25 &nbsp;·&nbsp; 23 July 2025**
+
+`Dept. of CSE, SOET · IEEE Bangalore Section`
+
+</td>
+</tr>
+</table>
 
 </div>
 
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=kakashsunny&theme=radical&background=020208&ring=00f5ff&fire=ff00aa&currStreakLabel=00f5ff&sideLabels=c8d8e8&border=00f5ff&stroke=00f5ff&dates=6a8a9a&currStreakNum=ffffff&sideNums=ffffff&borderRadius=10)
-
-</div>
+<br/>
 
 ---
 
-## 🏆 GitHub Trophies
+## `> github --stats`
+
+<br/>
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kakashsunny&theme=radical&no-frame=false&no-bg=false&margin-w=6&column=6&title_color=00f5ff)](https://github.com/kakashsunny)
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=kakashsunny&show_icons=true&bg_color=020208&title_color=00f5ff&text_color=c8d8e8&icon_color=ff00aa&border_color=00f5ff22&border_radius=8&hide_border=false&include_all_commits=true&count_private=true" />
+&nbsp;&nbsp;
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakashsunny&layout=compact&bg_color=020208&title_color=00f5ff&text_color=c8d8e8&border_color=00f5ff22&border_radius=8&hide_border=false&langs_count=8" />
 
 </div>
 
----
-
-## 📊 Contribution Graph
+<br/>
 
 <div align="center">
 
-[![Akash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kakashsunny&bg_color=020208&color=00f5ff&line=ff00aa&point=ffffff&area=true&area_color=00f5ff&hide_border=false&border_color=00f5ff&radius=10)](https://github.com/kakashsunny)
+![Streak](https://streak-stats.demolab.com?user=kakashsunny&theme=transparent&background=020208&ring=00f5ff&fire=ff00aa&currStreakLabel=00f5ff&sideLabels=c8d8e8&dates=6a8a9a&currStreakNum=ffffff&sideNums=00f5ff&border=00f5ff22&borderRadius=8&stroke=00f5ff22)
 
 </div>
 
+<br/>
+
 ---
 
-## 🔗 Connect
+## `> git log --graph`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-akash-%F0%9F%A4%96-724b11330)
-[![GitHub](https://img.shields.io/badge/GitHub-00f5ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/kakashsunny)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kakashsunny&bg_color=020208&color=00f5ff&line=ff00aa&point=ffffff&area=true&area_color=00f5ff&hide_border=false&border_color=00f5ff22&radius=8&custom_title=K.%20Akash%20%E2%80%94%20Contribution%20Neural%20Map)](https://github.com/kakashsunny)
 
 </div>
 
+<br/>
+
+---
+
+## `> ping connect`
+
+<br/>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020208)](https://www.linkedin.com/in/k-akash-%F0%9F%A4%96-724b11330)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-00f5ff?style=for-the-badge&logo=github&logoColor=black&labelColor=020208&color=00f5ff)](https://github.com/kakashsunny)
+
+</div>
+
+<br/>
+
 ---
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:8b00ff,100:00f5ff&height=120&section=footer&text=NEURAL_CORE.v25%20%2F%2F%20ALL%20SYSTEMS%20NOMINAL&fontSize=16&fontColor=ffffff&animation=fadeIn)
+![Profile Views](https://komarev.com/ghpvc/?username=kakashsunny&color=00f5ff&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true)
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020208,50:0a0a1f,100:020208&stroke=00f5ff&strokeWidth=2&height=100&section=footer&text=//+ALL+SYSTEMS+NOMINAL&fontSize=14&fontColor=00f5ff&animation=fadeIn&fontAlignY=65" />
 
 </div>
