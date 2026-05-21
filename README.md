@@ -5,6 +5,7 @@
 
 </div>
 
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=2000&pause=600&color=00F5FF&center=true&vCenter=true&repeat=true&width=750&height=55&lines=%5BBOOT%5D+Initializing+Neural+Core...+%E2%9C%93;%5BSCAN%5D+AI+Generalist+%7C+Builder+%7C+Explorer+%E2%9C%93;%5BPING%5D+Google+Cloud+Certified+%E2%9C%93;%5BWIN%5D+IEEE+Cognitive+Combat+%F0%9F%A5%87+1st+Place+%E2%9C%93;%5BLOC%5D+Bengaluru%2C+Karnataka%2C+India+%F0%9F%87%AE%F0%9F%87%B3+%E2%9C%93;%5BSTATUS%5D+%F0%9F%9F%A2+ONLINE+%E2%80%94+Building+the+Future+%E2%9C%93)](https://git.io/typing-svg)
