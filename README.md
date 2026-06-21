@@ -47,7 +47,7 @@ class KAkash:
         self.name        = "K. Akash"
         self.location    = "Bengaluru, Karnataka, India 🇮🇳"
         self.role        = ["AI Generalist", "Builder", "Explorer"]
-        self.university  = "CMR University · 3rd Year · B.E. CSE"
+        self.university  = "CMR University · 3rd Year · B.TECH. CSE"
         self.python      = "Grade A Certified  ·  IANT Computer Education"
         self.cloud       = "Google Cloud AI Track  ·  4 Skill Badges Earned"
         self.ieee        = "🥇 1st Place · Cognitive Combat · IEEE · CMR University"
