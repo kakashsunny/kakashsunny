@@ -1,0 +1,6 @@
+{
+  "name": "Neural Core Portfolio",
+  "description": "An interactive, high-tech portfolio and profile for K. Akash, featuring the cybernetic Neural Core theme, dynamic tech-stack, achievements explorer, and future milestones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
