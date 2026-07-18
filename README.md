@@ -1,9 +1,6 @@
 <div align="center">
 
-<!-- HERO AI BANNER -->
-<img width="100%" src="./src/assets/images/cyber_akash_avatar_1784393572093.jpg" alt="Neural Core Cybernetic Banner" />
-
-<!-- PROFILE HEADER -->
+<!-- HERO BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=340&text=K.%20AKASH&fontSize=120&color=0:000005,30:050010,60:000815,100:000005&stroke=00f5ff&strokeWidth=2.5&fontColor=00f5ff&animation=fadeIn&desc=%E2%96%B6%20%20NEURAL__CORE.v26%20%20%7C%20%20AI%20GENERALIST%20%20%7C%20%20BUILDER%20%20%7C%20%20EXPLORER%20%20%E2%97%80&descSize=15&descAlignY=82&descColor=7b61ff&fontAlignY=45" />
 
 </div>
