@@ -63,6 +63,8 @@ class KAkash:
             "🛠️  Building real-world AI-powered applications",
             "🧠  Agentic AI · LangChain · RAG Systems",
             "📈  AI + Stock Market · Algorithmic Intelligence",
+            "📊  Data Analytics & BI Dashboards · Power BI",
+            "🍃  NoSQL Data Modeling · MongoDB",
         ]
 
     def fun_facts(self) -> list:
@@ -105,6 +107,16 @@ print(f"[STATUS]  {boot.status}")
 
 <div align="center">
 
+### `// DATABASES`
+
+![MongoDB](https://img.shields.io/badge/MongoDB-050010?style=for-the-badge&logo=mongodb&logoColor=00ff88)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-050010?style=for-the-badge&logo=mysql&logoColor=00f5ff)&nbsp;
+![Supabase](https://img.shields.io/badge/Supabase-050010?style=for-the-badge&logo=supabase&logoColor=ff00aa)
+
+</div>
+
+<div align="center">
+
 ### `// AI · ML · DATA SCIENCE`
 
 ![NumPy](https://img.shields.io/badge/NumPy-050010?style=for-the-badge&logo=numpy&logoColor=00f5ff)&nbsp;
@@ -124,7 +136,7 @@ print(f"[STATUS]  {boot.status}")
 
 <div align="center">
 
-### `// TOOLS · PLATFORMS · DESIGN`
+### `// TOOLS · PLATFORMS · DESIGN · ANALYTICS`
 
 ![GitHub](https://img.shields.io/badge/GitHub-050010?style=for-the-badge&logo=github&logoColor=00f5ff)&nbsp;
 ![VS Code](https://img.shields.io/badge/VS_Code-050010?style=for-the-badge&logo=visualstudiocode&logoColor=ff00aa)&nbsp;
@@ -132,6 +144,7 @@ print(f"[STATUS]  {boot.status}")
 ![Supabase](https://img.shields.io/badge/Supabase-050010?style=for-the-badge&logo=supabase&logoColor=00ff88)&nbsp;
 ![Netlify](https://img.shields.io/badge/Netlify-050010?style=for-the-badge&logo=netlify&logoColor=00f5ff)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-050010?style=for-the-badge&logo=googlecloud&logoColor=ff6b00)&nbsp;
+![Power BI](https://img.shields.io/badge/Power_BI-050010?style=for-the-badge&logo=powerbi&logoColor=F2C811)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-050010?style=for-the-badge&logo=canva&logoColor=ff00aa)&nbsp;
 ![Jupyter](https://img.shields.io/badge/Jupyter-050010?style=for-the-badge&logo=jupyter&logoColor=ff6b00)&nbsp;
 ![Kaggle](https://img.shields.io/badge/Kaggle-050010?style=for-the-badge&logo=kaggle&logoColor=00f5ff)&nbsp;
@@ -290,8 +303,8 @@ CMR University · IEEE Bangalore Section
 ```json
 {
   "NEURAL_CORE.v26": {
-    "current_stack": ["Python", "NumPy", "Pandas", "Matplotlib", "Seaborn", "SQL"],
-    "active_learning": ["Scikit-Learn", "TensorFlow", "FastAPI", "LangChain", "RAG"],
+    "current_stack": ["Python", "NumPy", "Pandas", "Matplotlib", "Seaborn", "SQL", "MongoDB"],
+    "active_learning": ["Scikit-Learn", "TensorFlow", "FastAPI", "LangChain", "RAG", "Power BI"],
     "target_domain": "AI Generalist → Quant AI → Agentic Systems",
     "milestones": {
       "Q2_2026": "ML models on real Kaggle datasets",
@@ -309,27 +322,6 @@ CMR University · IEEE Bangalore Section
 
 ---
 
-## `⟩ github --stats --full`
-
-<br/>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kakashsunny&show_icons=true&bg_color=050010&title_color=00f5ff&text_color=c8d8e8&icon_color=ff00aa&border_color=00f5ff33&border_radius=10&include_all_commits=true&count_private=true&rank_icon=github" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakashsunny&layout=compact&bg_color=050010&title_color=00f5ff&text_color=c8d8e8&border_color=00f5ff33&border_radius=10&langs_count=8" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![Streak](https://streak-stats.demolab.com?user=kakashsunny&theme=transparent&background=050010&ring=00f5ff&fire=ff00aa&currStreakLabel=00f5ff&sideLabels=c8d8e8&dates=6a8a9a&currStreakNum=ffffff&sideNums=7b61ff&border=00f5ff33&borderRadius=10)
-
-</div>
-
-<br/>
 
 ---
 
@@ -342,10 +334,6 @@ CMR University · IEEE Bangalore Section
 </div>
 
 <br/>
-
----
-
-
 
 ---
 
@@ -394,8 +382,6 @@ CMR University · IEEE Bangalore Section
 </div>
 
 <br/>
-
----
 
 <div align="center">
 
