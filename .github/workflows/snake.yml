@@ -20,6 +20,23 @@ jobs:
           outputs: |
             dist/github-snake-sakura.svg?color_snake=#FFB7C5&color_dots=#2a2236,#4a2f3c,#8a4a63,#d97a9a,#FFB7C5
 
+      - name: Keep the snake inside the grid
+        run: |
+          python3 - <<'PY'
+          import re
+          p = "dist/github-snake-sakura.svg"
+          s = open(p, encoding="utf-8").read()
+          m = re.search(r'<svg[^>]*viewBox="(-?[\d.]+) (-?[\d.]+) ([\d.]+) ([\d.]+)"[^>]*>', s)
+          vx, vy, vw, vh = map(float, m.groups())
+          cell = 16
+          gw, gh = vw - 2 * cell, vh - 5 * cell
+          clip = ('<defs><clipPath id="gridclip"><rect x="0" y="0" width="%s" height="%s"/></clipPath></defs>'
+                  '<g clip-path="url(#gridclip)">') % (gw, gh)
+          s = s[:m.end()] + clip + s[m.end():]
+          s = s.replace("</svg>", "</g></svg>")
+          open(p, "w", encoding="utf-8").write(s)
+          PY
+
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
