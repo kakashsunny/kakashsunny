@@ -9,15 +9,7 @@
       <img src="./assets/neural-core-avatar.jpg" width="210" alt="Portrait of K. Akash under cherry blossoms" />
     </td>
     <td width="72%" valign="middle">
-      <h1>K. AKASH</h1>
-      <h3>AI GENERALIST&nbsp; · &nbsp;BUILDER&nbsp; · &nbsp;EXPLORER</h3>
-      <p><em>Turning curiosity into useful technology.</em></p>
-      <p><strong>学び続け、探求し続ける。</strong><br/><em>Continue Learning, Continue Exploring.</em></p>
-      <p>
-        <a href="https://github.com/kakashsunny">GitHub</a>
-        &nbsp;·&nbsp; Bengaluru, India
-        &nbsp;·&nbsp; B.Tech CSE, CMR University
-      </p>
+      <a href="https://github.com/kakashsunny"><img src="./assets/hero-text.svg" width="100%" alt="K. Akash — AI generalist, builder, explorer" /></a>
       <img src="./assets/akash-hanko.svg" width="58" alt="AK creator seal" />
     </td>
   </tr>
@@ -31,16 +23,7 @@
 
 <img src="./assets/sec-01.svg" width="100%" alt="01 はじめまして — THE BUILDER" />
 
-I'm **K. Akash**, a third-year B.Tech Computer Science student at **CMR University, Bengaluru**.
-
-I work at the intersection of **AI, software engineering and product building**. I enjoy understanding how intelligent systems work, experimenting with new ideas, and turning promising concepts into practical applications.
-
-**What I'm exploring**
-- 🌸 Generative AI, LLM applications and retrieval-augmented generation (RAG)
-- 🌸 Agentic workflows, tool use and orchestration
-- 🌸 Applied machine learning and data analytics
-- 🌸 Backend systems, APIs and databases
-- 🌸 Product experimentation and early-stage startup building
+<img src="./assets/about.svg" width="100%" alt="About K. Akash: third-year B.Tech CSE student at CMR University, Bengaluru, working across AI, software engineering and product building." />
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
@@ -48,25 +31,25 @@ I work at the intersection of **AI, software engineering and product building**.
 
 <div align="center">
 
-**LANGUAGES**
+<img src="./assets/label-languages.svg" alt="Languages" />
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css&theme=dark" alt="Python, Java, C, C++, JavaScript, HTML, CSS" />
 
-**AI & DATA**
+<img src="./assets/label-ai.svg" alt="AI and data" />
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" alt="TensorFlow, PyTorch, scikit-learn" />
 
-`Generative AI` · `LLMs` · `RAG` · `Prompt Engineering` · `NumPy` · `Pandas` · `Matplotlib` · `Seaborn`
+<img src="./assets/chips-ai.svg" alt="Generative AI, LLMs, RAG, Prompt Engineering, NumPy, Pandas, Matplotlib, Seaborn" />
 
-**BACKEND & DATABASES**
+<img src="./assets/label-backend.svg" alt="Backend and databases" />
 
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,mongodb,mysql,supabase,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,mongodb,mysql,supabase,firebase&theme=dark" alt="FastAPI, Node.js, MongoDB, MySQL, Supabase, Firebase" />
 
-**TOOLS & PLATFORMS**
+<img src="./assets/label-tools.svg" alt="Tools and platforms" />
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,googlecloud,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,googlecloud,figma&theme=dark" alt="Git, GitHub, VS Code, Docker, Postman, Google Cloud, Figma" />
 
-`Power BI` · `Jupyter` · `Kaggle` · `Vertex AI`
+<img src="./assets/chips-tools.svg" alt="Power BI, Jupyter, Kaggle, Vertex AI" />
 
 </div>
 
@@ -74,52 +57,14 @@ I work at the intersection of **AI, software engineering and product building**.
 
 <img src="./assets/sec-03.svg" width="100%" alt="03 作品 — SELECTED BUILDS" />
 
-*Experiments, prototypes and hackathon builds.*
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏯 Bayora Sentinel</h3>
-      <strong>AI security testing · Hackathon build</strong>
-      <p>A controlled environment for testing AI systems, with isolation boundaries and tamper-evident audit records.</p>
-      <sub>FastAPI · Docker · Security</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛡️ BrandGuard</h3>
-      <strong>Intelligent brand governance</strong>
-      <p>A web platform focused on monitoring and governing brand-related digital content.</p>
-      <sub>AI · Web application</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⛩️ YAATRI · ಯಾತ್ರಿ</h3>
-      <strong>Kannada-first travel planner</strong>
-      <p>A travel-planning concept to help people discover Karnataka and create budget-aware itineraries.</p>
-      <sub>Generative AI · Travel</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🐓 Farm Fresh</h3>
-      <strong>Poultry e-commerce</strong>
-      <p>An online storefront for eggs and poultry, built with a FastAPI backend and Supabase.</p>
-      <sub>FastAPI · Supabase</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📜 ScholarX</h3>
-      <strong>Student analytics</strong>
-      <p>A churn-analysis project using SQL and Power BI to explore student data and communicate insights.</p>
-      <sub>SQL · Power BI</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌀 NEXUS AI / SentinelX</h3>
-      <strong>Exploration projects</strong>
-      <p>Concepts for AI model discovery and a digital crisis command-center interface.</p>
-      <sub>AI platforms · Geospatial</sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/card-01.svg" width="48%" alt="Bayora Sentinel" />
+  <img src="./assets/card-02.svg" width="48%" alt="BrandGuard" />
+  <img src="./assets/card-03.svg" width="48%" alt="YAATRI" />
+  <img src="./assets/card-04.svg" width="48%" alt="Farm Fresh" />
+  <img src="./assets/card-05.svg" width="48%" alt="ScholarX" />
+  <img src="./assets/card-06.svg" width="48%" alt="NEXUS AI / SentinelX" />
+</p>
 
 <sub>These include concepts, prototypes and hackathon builds. Project status and implementation depth vary; check each repository for the latest details.</sub>
 
@@ -127,28 +72,13 @@ I work at the intersection of **AI, software engineering and product building**.
 
 <img src="./assets/sec-04.svg" width="100%" alt="04 実績 — MILESTONES" />
 
-| Recognition | Result |
-|:--|:--|
-| Cognitive Combat · Techno Whiz '25, CMR University | 🥇 **1st place — Coding Skills** |
-| Embedded Project Expo | 🏆 **Winner** |
-| Smart India Hackathon 2025 | **Internal hackathon shortlisted** |
-| TechZephyr 4.0 · ML Hackathon | **Qualified for offline final — IIT Bhubaneswar** |
-| HackerRank | ⭐ **5-Star Gold — Python** |
-| Google Cloud Skills Boost | **Intro to Generative AI badge** |
-| IANT Computer Education | **Python — Grade A** |
+<img src="./assets/milestones.svg" width="100%" alt="Milestones: 1st place Coding Skills at Techno Whiz '25; Winner at Embedded Project Expo; Smart India Hackathon 2025 internal shortlist; TechZephyr 4.0 offline final at IIT Bhubaneswar; HackerRank 5-Star Gold in Python; Google Cloud Intro to Generative AI badge; Python Grade A at IANT." />
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
 <img src="./assets/sec-05.svg" width="100%" alt="05 探求 — CURRENT LEARNING" />
 
-| Focus | Current direction |
-|:--|:--|
-| **LLM engineering** | Grounded responses, RAG pipelines and evaluation |
-| **Agentic systems** | Tool calling, workflows and orchestration |
-| **Machine learning** | Model training, evaluation and applied experiments |
-| **Backend engineering** | FastAPI, API design and application architecture |
-| **Data systems** | SQL, MongoDB and analytics |
-| **Cloud** | Google Cloud and Vertex AI |
+<img src="./assets/learning.svg" width="100%" alt="Current learning: LLM engineering, agentic systems, machine learning, backend engineering, data systems and cloud." />
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
@@ -180,16 +110,8 @@ I work at the intersection of **AI, software engineering and product building**.
   <img src="https://img.shields.io/badge/GitHub-Explore_my_work-D9333F?style=for-the-badge&logo=github&logoColor=F3E9DC&labelColor=14121F" alt="GitHub profile" />
 </a>
 
-<br/><br/>
-
-*Open to meaningful AI projects, hackathons and collaboration.*
-
-### 七転び八起き
-*Fall seven times, stand up eight.*
-
-**一緒に未来を創ろう。**
-*Let's build the future.*
-
 </div>
+
+<img src="./assets/closing.svg" width="100%" alt="Fall seven times, stand up eight. Let's build the future." />
 
 <img src="./assets/divider.svg" width="100%" alt="" />
