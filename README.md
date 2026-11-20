@@ -1,8 +1,4 @@
-<div align="center">
-  <a href="./assets/music1.mp3">
-    <img src="https://img.shields.io/badge/▶_PLAY_MUSIC-FFB7C5?style=for-the-badge" alt="Play music">
-  </a>
-</div>
+
 
 <div align="center">
   <img src="./assets/kyoto-banner.png" width="100%" alt="Japanese ukiyo-e landscape with Mount Fuji, Kyoto pagoda, cherry blossoms and a red sun" />
