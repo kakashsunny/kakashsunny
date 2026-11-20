@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 72" width="900" height="72" role="img" aria-label="03 作品 — SELECTED BUILDS">
+<rect x=".5" y=".5" width="899" height="71" rx="10" fill="#14121F" stroke="#2d2540"/>
+<g transform="rotate(-3 40 36)"><rect x="18" y="14" width="44" height="44" rx="4" fill="#D9333F"/>
+<text x="40" y="44" text-anchor="middle" font-family="'Noto Serif JP','Hiragino Mincho ProN','Yu Mincho','MS PMincho',serif" font-size="22" font-weight="700" fill="#F3E9DC">03</text></g>
+<text x="84" y="48" font-family="'Noto Serif JP','Hiragino Mincho ProN','Yu Mincho','MS PMincho',serif" font-size="32" fill="#F3E9DC" opacity="0">作品<tspan dx="18" font-size="15" letter-spacing="5" fill="#FFB7C5">SELECTED BUILDS</tspan>
+<animate attributeName="opacity" from="0" to="1" dur="1s" fill="freeze"/></text>
+<line x1="84" y1="60" x2="860" y2="60" stroke="#D9333F" stroke-width="1.5" stroke-dasharray="776" stroke-dashoffset="776">
+<animate attributeName="stroke-dashoffset" values="776;0;0;776" keyTimes="0;.25;.8;1" dur="7s" repeatCount="indefinite"/></line>
+<g transform="translate(870,30)"><path d="M0 0C5-7 12-3 8 4 6 7 2 6 0 2-2 6-6 7-8 4-12-3-5-7 0 0Z" fill="#FFB7C5">
+<animateTransform attributeName="transform" type="rotate" values="0;360" dur="9s" repeatCount="indefinite"/></path></g></svg>

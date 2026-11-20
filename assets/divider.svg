@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 30" width="1200" height="30" role="presentation">
+<defs>
+<pattern id="s" width="40" height="20" patternUnits="userSpaceOnUse">
+<animateTransform attributeName="patternTransform" type="translate" from="0 0" to="40 0" dur="5s" repeatCount="indefinite"/>
+<g fill="none" stroke="#E58AA0" stroke-width="1.1">
+<circle cx="20" cy="10" r="18"/><circle cx="20" cy="10" r="12"/><circle cx="20" cy="10" r="6"/>
+<circle cx="0" cy="20" r="18"/><circle cx="0" cy="20" r="12"/><circle cx="0" cy="20" r="6"/>
+<circle cx="40" cy="20" r="18"/><circle cx="40" cy="20" r="12"/><circle cx="40" cy="20" r="6"/></g></pattern>
+<linearGradient id="f" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".2" stop-color="#fff"/><stop offset=".8" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<mask id="m"><rect width="1200" height="30" fill="url(#f)"/></mask></defs>
+<rect y="5" width="1200" height="20" fill="url(#s)" mask="url(#m)" opacity=".85"/>
+<circle cx="600" cy="15" r="7" fill="#D9333F"><animate attributeName="r" values="6;8;6" dur="3s" repeatCount="indefinite"/></circle></svg>
