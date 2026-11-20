@@ -104,12 +104,19 @@
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
+
 <img src="./assets/sec-07.svg" width="100%" alt="07 ご縁 — CONNECT" />
 
 <div align="center">
 
 <a href="https://github.com/kakashsunny">
-  <img src="https://img.shields.io/badge/GitHub-Explore_my_work-D9333F?style=for-the-badge&logo=github&logoColor=F3E9DC&labelColor=14121F" alt="GitHub profile" />
+  <img src="https://img.shields.io/badge/GITHUB-EXPLORE_MY_WORK-D9333F?style=for-the-badge&logo=github&logoColor=F3E9DC&labelColor=14121F" alt="GitHub" />
+</a>
+<a href="https://leetcode.com/u/KAKASH2807/">
+  <img src="https://img.shields.io/badge/LEETCODE-SOLVE_WITH_ME-E99AAF?style=for-the-badge&logo=leetcode&logoColor=F3E9DC&labelColor=14121F" alt="LeetCode" />
+</a>
+<a href="https://unstop.com/u/kaka51405">
+  <img src="https://img.shields.io/badge/UNSTOP-HACKATHONS_%26_CHALLENGES-A65D75?style=for-the-badge&labelColor=14121F" alt="Unstop" />
 </a>
 
 </div>
@@ -117,3 +124,4 @@
 <img src="./assets/closing.svg" width="100%" alt="Fall seven times, stand up eight. Let's build the future." />
 
 <img src="./assets/divider.svg" width="100%" alt="" />
+
