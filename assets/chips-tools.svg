@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 44" width="740" height="44" role="img" aria-label="Power BI, Jupyter, Kaggle, Vertex AI">
+<rect x="182" y="4" width="90" height="30" rx="15" fill="#FFB7C5" fill-opacity=".07" stroke="#FFB7C5" stroke-opacity=".5"/>
+<text x="227" y="24" text-anchor="middle" font-family="'Noto Sans JP','Yu Gothic','Hiragino Sans','Segoe UI',Arial,sans-serif" font-size="13" letter-spacing=".5" fill="#FFB7C5">Power BI</text>
+<rect x="282" y="4" width="83" height="30" rx="15" fill="#FFB7C5" fill-opacity=".07" stroke="#FFB7C5" stroke-opacity=".5"/>
+<text x="324" y="24" text-anchor="middle" font-family="'Noto Sans JP','Yu Gothic','Hiragino Sans','Segoe UI',Arial,sans-serif" font-size="13" letter-spacing=".5" fill="#FFB7C5">Jupyter</text>
+<rect x="375" y="4" width="75" height="30" rx="15" fill="#FFB7C5" fill-opacity=".07" stroke="#FFB7C5" stroke-opacity=".5"/>
+<text x="412" y="24" text-anchor="middle" font-family="'Noto Sans JP','Yu Gothic','Hiragino Sans','Segoe UI',Arial,sans-serif" font-size="13" letter-spacing=".5" fill="#FFB7C5">Kaggle</text>
+<rect x="460" y="4" width="98" height="30" rx="15" fill="#FFB7C5" fill-opacity=".07" stroke="#FFB7C5" stroke-opacity=".5"/>
+<text x="509" y="24" text-anchor="middle" font-family="'Noto Sans JP','Yu Gothic','Hiragino Sans','Segoe UI',Arial,sans-serif" font-size="13" letter-spacing=".5" fill="#FFB7C5">Vertex AI</text>
+</svg>

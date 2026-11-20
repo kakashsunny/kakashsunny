@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 82" width="740" height="82" role="img" aria-label="Generative AI, LLMs, RAG, Prompt Engineering, NumPy, Pandas, Matplotlib, Seaborn">
+<rect x="70" y="4" width="129" height="30" rx="15" fill="#FFB7C5" fill-opacity=".07" stroke="#FFB7C5" stroke-opacity=".5"/>
+<text x="135" y="24" text-anchor="middle" font-family="'Noto Sans JP','Yu Gothic','Hiragino Sans','Segoe UI',Arial,sans-serif" font-size="13" letter-spacing=".5" fill="#FFB7C5">Generative AI</text>
+<rect x="209" y="4" width="59" height="30" rx="15" fill="#FFB7C5" fill-opacity=".07" stroke="#FFB7C5" stroke-opacity=".5"/>
+<text x="239" y="24" text-anchor="middle" font-family="'Noto Sans JP','Yu Gothic','Hiragino Sans','Segoe UI',Arial,sans-serif" font-size="13" letter-spacing=".5" fill="#FFB7C5">LLMs</text>
+<rect x="278" y="4" width="51" height="30" rx="15" fill="#FFB7C5" fill-opacity=".07" stroke="#FFB7C5" stroke-opacity=".5"/>
+<text x="304" y="24" text-anchor="middle" font-family="'Noto Sans JP','Yu Gothic','Hiragino Sans','Segoe UI',Arial,sans-serif" font-size="13" letter-spacing=".5" fill="#FFB7C5">RAG</text>
+<rect x="340" y="4" width="168" height="30" rx="15" fill="#FFB7C5" fill-opacity=".07" stroke="#FFB7C5" stroke-opacity=".5"/>
+<text x="424" y="24" text-anchor="middle" font-family="'Noto Sans JP','Yu Gothic','Hiragino Sans','Segoe UI',Arial,sans-serif" font-size="13" letter-spacing=".5" fill="#FFB7C5">Prompt Engineering</text>
+<rect x="518" y="4" width="67" height="30" rx="15" fill="#FFB7C5" fill-opacity=".07" stroke="#FFB7C5" stroke-opacity=".5"/>
+<text x="552" y="24" text-anchor="middle" font-family="'Noto Sans JP','Yu Gothic','Hiragino Sans','Segoe UI',Arial,sans-serif" font-size="13" letter-spacing=".5" fill="#FFB7C5">NumPy</text>
+<rect x="595" y="4" width="75" height="30" rx="15" fill="#FFB7C5" fill-opacity=".07" stroke="#FFB7C5" stroke-opacity=".5"/>
+<text x="633" y="24" text-anchor="middle" font-family="'Noto Sans JP','Yu Gothic','Hiragino Sans','Segoe UI',Arial,sans-serif" font-size="13" letter-spacing=".5" fill="#FFB7C5">Pandas</text>
+<rect x="271" y="42" width="106" height="30" rx="15" fill="#FFB7C5" fill-opacity=".07" stroke="#FFB7C5" stroke-opacity=".5"/>
+<text x="324" y="62" text-anchor="middle" font-family="'Noto Sans JP','Yu Gothic','Hiragino Sans','Segoe UI',Arial,sans-serif" font-size="13" letter-spacing=".5" fill="#FFB7C5">Matplotlib</text>
+<rect x="387" y="42" width="83" height="30" rx="15" fill="#FFB7C5" fill-opacity=".07" stroke="#FFB7C5" stroke-opacity=".5"/>
+<text x="428" y="62" text-anchor="middle" font-family="'Noto Sans JP','Yu Gothic','Hiragino Sans','Segoe UI',Arial,sans-serif" font-size="13" letter-spacing=".5" fill="#FFB7C5">Seaborn</text>
+</svg>

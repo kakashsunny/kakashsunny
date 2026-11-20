@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 668 336" width="668" height="336" role="img" aria-label="K. Akash — AI generalist, builder, explorer. Continue learning, continue exploring.">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1D1830"/><stop offset="1" stop-color="#120F1B"/></linearGradient>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#D9333F"/><stop offset=".6" stop-color="#FFB7C5"/><stop offset="1" stop-color="#FFB7C5" stop-opacity="0"/></linearGradient>
+  <linearGradient id="fade" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  <mask id="m"><rect x="0" y="210" width="640" height="90" fill="url(#fade)"/></mask>
+  <pattern id="wave" width="40" height="20" patternUnits="userSpaceOnUse"><g fill="none" stroke="#FFB7C5" stroke-width="1">
+    <circle cx="0" cy="20" r="20"/><circle cx="0" cy="20" r="14"/><circle cx="0" cy="20" r="8"/>
+    <circle cx="40" cy="20" r="20"/><circle cx="40" cy="20" r="14"/><circle cx="40" cy="20" r="8"/>
+    <circle cx="20" cy="10" r="20"/><circle cx="20" cy="10" r="14"/><circle cx="20" cy="10" r="8"/></g></pattern>
+  <filter id="sh" x="-10%" y="-10%" width="120%" height="130%">
+    <feDropShadow dx="0" dy="8" stdDeviation="9" flood-color="#000" flood-opacity=".55"/>
+    <feDropShadow dx="0" dy="0" stdDeviation="7" flood-color="#FFB7C5" flood-opacity=".14"/></filter>
+  <clipPath id="c"><rect width="640" height="300" rx="16"/></clipPath>
+</defs>
+<g transform="translate(14,10)">
+<rect width="640" height="300" rx="16" fill="url(#bg)" filter="url(#sh)"/>
+<g clip-path="url(#c)">
+  <g mask="url(#m)"><rect y="210" width="640" height="90" fill="url(#wave)" opacity=".16"/></g>
+  <text x="618" y="274" text-anchor="end" font-family="'Shippori Mincho','Noto Serif JP','Yu Mincho','Hiragino Mincho ProN','Hiragino Mincho Pro','MS PMincho',serif" font-size="230" fill="#FFB7C5" fill-opacity=".06">学</text>
+  <rect width="640" height="3" fill="url(#edge)"/>
+</g>
+<rect x=".5" y=".5" width="639" height="299" rx="16" fill="none" stroke="#FFB7C5" stroke-opacity=".18"/>
+<rect x="0" y="34" width="4" height="64" fill="#D9333F"/>
+<text x="36" y="96" font-family="'Shippori Mincho','Noto Serif JP','Yu Mincho','Hiragino Mincho ProN','Hiragino Mincho Pro','MS PMincho',serif" font-size="60" font-weight="700" fill="#F3E9DC" fill-opacity="1" text-anchor="start" letter-spacing="7">K. AKASH</text>
+<path d="M36 114 C120 106 230 118 340 108" stroke="#D9333F" stroke-width="4" fill="none" stroke-linecap="round"/>
+<path d="M36 121 C110 117 180 123 250 118" stroke="#FFB7C5" stroke-opacity=".6" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+<text x="36" y="150" font-family="'Shippori Mincho','Noto Serif JP','Yu Mincho','Hiragino Mincho ProN','Hiragino Mincho Pro','MS PMincho',serif" font-size="13" font-weight="700" fill="#FFB7C5" fill-opacity="1" text-anchor="start" letter-spacing="4">AI GENERALIST  ·  BUILDER  ·  EXPLORER</text>
+<text x="36" y="180" font-family="'Shippori Mincho','Noto Serif JP','Yu Mincho','Hiragino Mincho ProN','Hiragino Mincho Pro','MS PMincho',serif" font-size="16" font-weight="400" fill="#D8CFDD" fill-opacity="1" text-anchor="start" letter-spacing="0" font-style="italic">Turning curiosity into useful technology.</text>
+<text x="36" y="226" font-family="'Shippori Mincho','Noto Serif JP','Yu Mincho','Hiragino Mincho ProN','Hiragino Mincho Pro','MS PMincho',serif" font-size="28" font-weight="700" fill="#F3E9DC" fill-opacity="1" text-anchor="start" letter-spacing="3">学び続け、探求し続ける。</text>
+<text x="36" y="250" font-family="'Shippori Mincho','Noto Serif JP','Yu Mincho','Hiragino Mincho ProN','Hiragino Mincho Pro','MS PMincho',serif" font-size="13.5" font-weight="400" fill="#A99FB5" fill-opacity="1" text-anchor="start" letter-spacing="0" font-style="italic">Continue Learning, Continue Exploring.</text>
+<text x="36" y="282" font-family="'Noto Sans JP','Yu Gothic','Hiragino Sans','Segoe UI',Arial,sans-serif" font-size="11.5" font-weight="400" fill="#FFB7C5" fill-opacity="0.85" text-anchor="start" letter-spacing="1.5">BENGALURU, INDIA   ·   B.TECH CSE, CMR UNIVERSITY</text>
+<text x="602" y="56" font-family="'Shippori Mincho','Noto Serif JP','Yu Mincho','Hiragino Mincho ProN','Hiragino Mincho Pro','MS PMincho',serif" font-size="22" font-weight="700" fill="#FFB7C5" fill-opacity="0.65" text-anchor="middle" letter-spacing="0">探</text>
+<text x="602" y="86" font-family="'Shippori Mincho','Noto Serif JP','Yu Mincho','Hiragino Mincho ProN','Hiragino Mincho Pro','MS PMincho',serif" font-size="22" font-weight="700" fill="#FFB7C5" fill-opacity="0.65" text-anchor="middle" letter-spacing="0">求</text>
+<path d="M0 0 C4 -5 10 -2 8 4 C6 9 1 8 0 0Z" fill="#FFB7C5" fill-opacity="0.9" transform="translate(550,34) scale(1.1)"/>
+<path d="M0 0 C4 -5 10 -2 8 4 C6 9 1 8 0 0Z" fill="#FFB7C5" fill-opacity="0.5" transform="translate(522,62) scale(0.7)"/>
+</g>
+</svg>
