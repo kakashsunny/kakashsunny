@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="96" viewBox="0 0 900 96" role="img" aria-label="Now building: RAG evaluation toolkit. Next: agent orchestration. Open to collaborations.">
+<style>.d{animation:p 1.6s ease-out infinite;transform-origin:44px 48px}@keyframes p{0%{transform:scale(1);opacity:.8}100%{transform:scale(3);opacity:0}}.l{font-size:12px;letter-spacing:4px;fill:#C9A24B;font-family:'Shippori Mincho','Noto Serif JP','Yu Mincho','Hiragino Mincho ProN','MS PMincho',Georgia,serif}.v{font-size:20px;fill:#F3EBDD;font-family:'Shippori Mincho','Noto Serif JP','Yu Mincho','Hiragino Mincho ProN','MS PMincho',Georgia,serif}.s{opacity:0;animation:sh 9s ease-in-out infinite both}@keyframes sh{0%{opacity:0}6%,30%{opacity:1}36%,100%{opacity:0}}</style>
+<rect width="900" height="96" rx="10" fill="#10121C" stroke="#FFB7C5" stroke-opacity=".4"/>
+<circle class="d" cx="44" cy="48" r="7" fill="#D9333F"/><circle cx="44" cy="48" r="7" fill="#D9333F"/>
+<text class="l" x="72" y="38">今 · NOW BUILDING</text>
+<text class="v s" x="72" y="68">RAG evaluation toolkit — grounded answers you can measure</text>
+<text class="v s" x="72" y="68" style="animation-delay:3s">Agent orchestration — tools, memory and workflows</text>
+<text class="v s" x="72" y="68" style="animation-delay:6s">Open to AI projects, hackathons and collaboration</text></svg>
