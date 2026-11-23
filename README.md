@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="./assets/kyoto-banner.png" width="100%" alt="Japanese ukiyo-e landscape with Mount Fuji, Kyoto pagoda, cherry blossoms and a red sun" />
+  <img src="./assets/japanese_spring_cinematic_v4.svg" width="100%" alt="Japanese ukiyo-e landscape with Mount Fuji, Kyoto pagoda, cherry blossoms and a red sun" />
   <img src="./assets/petals.svg" width="100%" alt="" />
 </div>
 
