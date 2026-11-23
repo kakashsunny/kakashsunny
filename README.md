@@ -128,4 +128,6 @@
 <img src="./assets/closing.svg" width="100%" alt="Fall seven times, stand up eight. Let's build the future." />
 
 <img src="./assets/divider.svg" width="100%" alt="" />
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=kakashsunny&label=PROFILE+VIEWS&color=D9333F&style=for-the-badge&labelColor=14121F" alt="Profile views" />
+</div>
