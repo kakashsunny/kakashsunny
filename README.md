@@ -31,6 +31,10 @@
 
 <img src="./assets/sec-02.svg" width="100%" alt="02 技術 — THE TOOLKIT" />
 
+<img src="./assets/orbit.svg" width="100%" alt="Skill orbit: Python, SQL, C++, Java, RAG, LLMs, Agents, PyTorch, ML, FastAPI, Docker, Supabase, GCP, MongoDB, Vertex AI" />
+
+
+
 <div align="center">
 
 <img src="./assets/label-languages.svg" alt="Languages" />
@@ -68,7 +72,7 @@
   <img src="./assets/card-06.svg" width="48%" alt="NEXUS AI / SentinelX" />
 </p>
 
-<sub>These include concepts, prototypes and hackathon builds. Project status and implementation depth vary; check each repository for the latest details.</sub>
+
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
